@@ -1,7 +1,7 @@
 # 📜 Introduction
-> **Headers to change console colors in C**
+**⚡ Headers to change console colors in C**
 
-# ⚡ Definitions
+# 📖 Definitions
 + **RESET_COLOR** (windows, linux)
 + **RED_COLOR** (windows, linux)
 + **BLACK_COLOR** (windows, linux)
@@ -19,3 +19,10 @@
 + **LIGHT_CYAN_COLOR** (windows)
 + **LIGHT_GREEN_COLOR** (windows)
 + **LIGHT_BLUE_COLOR** (windows)
+
+# 💫 Example
+```c
+SetConsoleColor(CYAN_COLOR);
+printf("Hello world\n");
+SetConsoleColor(RESET_COLOR);
+```
