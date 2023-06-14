@@ -9,7 +9,7 @@
 + **GREEN_COLOR** (windows, linux)
 + **MAGENTA_COLOR** (windows, linux)
 + **CYAN_COLOR** (windows, linux)
-+ **WHITE_COLOR** (windows, linux)
++ **WHITE_COLOR** (linux)
 + **YELLOW_COLOR** (windows, linux)
 + **GRAY_COLOR** (windows)
 + **DARK_GRAY_COLOR** (windows)
