@@ -1,3 +1,5 @@
+#pragma once
+
 #include <windows.h>
 
 #define BLACK_COLOR 0
