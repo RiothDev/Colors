@@ -1,3 +1,5 @@
+#pragma once
+
 #include <stdio.h>
 
 #define BLACK_COLOR "\x1b[30m"
